@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm shuarya kamalvanshi</h1>
+<h1 align="center">Hi 👋, I'm shaurya kamalvanshi</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611d4f31fa8cc811286fd1008dfc6e724b9a5d33e9a&rid=giphy.gif&ct=g"/>
 
